@@ -1,0 +1,7 @@
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\bin\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.exe.config
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\bin\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.exe
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\bin\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.pdb
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\obj\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.csproj.AssemblyReference.cache
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\obj\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.csproj.CoreCompileInputs.cache
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\obj\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.exe
+F:\Program koji ispisuje sve neparne brojeve između 10 i 99\Program koji ispisuje sve neparne brojeve između 10 i 99\obj\Debug\Program koji ispisuje sve neparne brojeve između 10 i 99.pdb

@@ -1,0 +1,7 @@
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\bin\Debug\Program koji ispisuje informacije o pritisnutom tasteru.exe.config
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\bin\Debug\Program koji ispisuje informacije o pritisnutom tasteru.exe
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\bin\Debug\Program koji ispisuje informacije o pritisnutom tasteru.pdb
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\obj\Debug\Program koji ispisuje informacije o pritisnutom tasteru.csproj.AssemblyReference.cache
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\obj\Debug\Program koji ispisuje informacije o pritisnutom tasteru.csproj.CoreCompileInputs.cache
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\obj\Debug\Program koji ispisuje informacije o pritisnutom tasteru.exe
+F:\Program koji ispisuje informacije o pritisnutom tasteru\Program koji ispisuje informacije o pritisnutom tasteru\obj\Debug\Program koji ispisuje informacije o pritisnutom tasteru.pdb
